@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   enable-background="new"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="battery-good.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="936"
+     inkscape:window-height="338"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="969"
+     inkscape:window-y="726"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">Paper Symbolic Icon Theme</title>
+  <g
+     transform="translate(2,4)"
+     fill="#363636"
+     fill-rule="evenodd"
+     id="g10"
+     style="fill:#f2f2f2">
+    <rect
+       x="2"
+       y="5"
+       width="10"
+       height="6"
+       rx=".5236"
+       ry=".54584"
+       style="paint-order:stroke fill markers;fill:#f2f2f2"
+       id="rect4" />
+    <path
+       d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h13c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h13c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-13c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z"
+       enable-background="new"
+       style="paint-order:stroke fill markers;fill:#f2f2f2"
+       id="path6" />
+    <path
+       d="m18 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
+       enable-background="new"
+       style="paint-order:stroke fill markers;fill:#f2f2f2"
+       id="path8" />
+  </g>
+</svg>
